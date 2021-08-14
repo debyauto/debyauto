@@ -1,6 +1,5 @@
-- 👋 --- Hi, I’m @debyauto
-- 👀 --- A Big Fan of Automation
-- 🌱 --- Currently focusing on NodeJS and Python, especially with puppeteer/playwright
+- 👋  --- Hi, I’m Deby, an automation addict
+- 🌱  --- Focusing on NodeJS and Python
 
 <!---
 debyauto/debyauto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
