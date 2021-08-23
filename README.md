@@ -1,5 +1,5 @@
 - 👋  --- Hi, I’m Deby, an automation addict
-- 🌱  --- Focusing on NodeJS and Python
+- 🌱  --- Currently focusing on TypeScript and Python
 
 <!---
 debyauto/debyauto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
